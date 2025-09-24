@@ -8,7 +8,7 @@ sosial_media: {
   email: "fallzxcoderid@gmail.com", // Email
   youtube: "@fallzx-features", // YouTube Username 
   tiktok: "@siapa_2020", // Tiktok Username 
-  whatsapp: "2694065094", // WhatsApp Number 
+  whatsapp: "6285119732048", // WhatsApp Number 
   telegram: "@fallxd671" // Telegram Username
 },
 payment: {
