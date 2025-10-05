@@ -50,7 +50,7 @@ const productsData = {
                 "id": 2,
                 "name": "Jasa Pembuatan Fitur",
                 "icon": "fas fa-microchip",
-                "description": "Virtual Private Server murah untuk belajar dan project kecil.",
+                "description": "Kami menyediakan layanan pembuatan fitur khusus untuk bot WhatsApp sesuai kebutuhan Anda. Setiap fitur dirancang agar bot lebih interaktif, otomatis, dan efisien dalam membantu aktivitas harian atau bisnis Anda. Cocok untuk personal use maupun kebutuhan komersial.",
                 "variants": [
                   { "name": "Add & Fix / Fitur WhatsApp Bot", "price": 5000 },
                   { "name": "Add Fitur Auto React Status", "price": 15000 },
@@ -64,23 +64,23 @@ const productsData = {
                 "id": 3,
                 "name": "Sewa Bot & Jadibot",
                 "icon": "fas fa-hdd",
-                "description": "VPS menengah dengan performa cukup untuk website atau panel hosting.",
+                "description": "Layanan Sewabot atau Jadibot WhatsApp memungkinkan Anda memiliki bot siap pakai tanpa perlu repot menjalankan server sendiri. Anda cukup menyambungkan akun WhatsApp Anda, dan bot akan aktif 24 jam penuh dengan berbagai fitur menarik yang bisa digunakan langsung.",
                 "variants": [
-                  { "name": "1 Minggu / 7 Day", "price": 5.000 },
-                  { "name": "2 Minggu / 14 Day", "price": 10.000 },
-                  { "name": "1 Bulan / 30 Day", "price": 20.000 },
-                  { "name": "Permanen / LifeTime", "price": 30.000 }
+                  { "name": "1 Minggu / 7 Day", "price": 5000 },
+                  { "name": "2 Minggu / 14 Day", "price": 10000 },
+                  { "name": "1 Bulan / 30 Day", "price": 20000 },
+                  { "name": "Permanen / LifeTime", "price": 30000 }
                 ]
               },
               {
                 "id": 4,
                 "name": "Sell Script Lily Generation 2",
                 "icon": "fas fa-database",
-                "description": "Script WhatsApp Bot Performa Badas , Full Scraper",
+                "description": "Kami juga menjual Script Lily Generation 2, versi terbaru dari bot WhatsApp yang sudah dilengkapi fitur modern, performa cepat, dan sistem auto-update. Script ini cocok untuk developer maupun pengguna yang ingin memiliki bot profesional dan mudah dikembangkan.",
                 "variants": [
-                  { "name": "Total Features 600 + Auto React Sw + Auto Show JKT48 ( NO UPDATE )", "price": 30.000 },
-                  { "name": "Total Features 600 + Auto React Sw + Auto Show JKT48 ( FREE 1x UPDATE )", "price": 35.000 },
-                  { "name": "Total Features 600 + Auto React Sw + Auto Show JKT48 ( FREE 2x UPDATE )", "price": 45.000 }
+                  { "name": "Total Features 600 + Auto React Sw + Auto Show JKT48 ( NO UPDATE )", "price": 30000 },
+                  { "name": "Total Features 600 + Auto React Sw + Auto Show JKT48 ( FREE 1x UPDATE )", "price": 35000 },
+                  { "name": "Total Features 600 + Auto React Sw + Auto Show JKT48 ( FREE 2x UPDATE )", "price": 45000 }
                 ]
               },
               {
