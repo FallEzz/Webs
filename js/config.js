@@ -42,37 +42,45 @@ const productsData = {
                   { "name": "8GB RAM", "price": 8000 },
                   { "name": "9GB RAM", "price": 9000 },
                   { "name": "10GB RAM", "price": 10000 },
-                  { "name": "Unlimited RAM", "price": 12000 }
+                  { "name": "Unlimited RAM", "price": 12000 },
+                  { "name": "Admin Panel", "price": 17000 }
                 ]
               },
               {
                 "id": 2,
-                "name": "VPS Kecil",
+                "name": "Jasa Pembuatan Fitur",
                 "icon": "fas fa-microchip",
                 "description": "Virtual Private Server murah untuk belajar dan project kecil.",
                 "variants": [
-                  { "name": "1 vCPU / 1GB RAM / 20GB SSD", "price": 25000 },
-                  { "name": "2 vCPU / 2GB RAM / 40GB SSD", "price": 45000 }
+                  { "name": "Add & Fix / Fitur WhatsApp Bot", "price": 5000 },
+                  { "name": "Add Fitur Auto React Status", "price": 15000 },
+                  { "name": "Add Fitur Security IP ", "price": 25000 },
+                  { "name": "Add Fitur Security Username + Password", "price": 15000 },
+                  { "name": "Add Fitur Autojoin Saluran WhatsApp", "price": 10000 }
+                   
                 ]
               },
               {
                 "id": 3,
-                "name": "VPS Menengah",
+                "name": "Sewa Bot & Jadibot",
                 "icon": "fas fa-hdd",
                 "description": "VPS menengah dengan performa cukup untuk website atau panel hosting.",
                 "variants": [
-                  { "name": "2 vCPU / 4GB RAM / 80GB SSD", "price": 75000 },
-                  { "name": "4 vCPU / 8GB RAM / 160GB SSD", "price": 135000 }
+                  { "name": "1 Minggu / 7 Day", "price": 5.000 },
+                  { "name": "2 Minggu / 14 Day", "price": 10.000 },
+                  { "name": "1 Bulan / 30 Day", "price": 20.000 },
+                  { "name": "Permanen / LifeTime", "price": 30.000 }
                 ]
               },
               {
                 "id": 4,
-                "name": "Dedicated Server",
+                "name": "Sell Script Lily Generation 2",
                 "icon": "fas fa-database",
-                "description": "Server dedicated dengan performa tinggi, cocok untuk skala besar.",
+                "description": "Script WhatsApp Bot Performa Badas , Full Scraper",
                 "variants": [
-                  { "name": "8 vCPU / 32GB RAM / 500GB SSD", "price": 450000 },
-                  { "name": "16 vCPU / 64GB RAM / 1TB SSD", "price": 800000 }
+                  { "name": "Total Features 600 + Auto React Sw + Auto Show JKT48 ( NO UPDATE )", "price": 30.000 },
+                  { "name": "Total Features 600 + Auto React Sw + Auto Show JKT48 ( FREE 1x UPDATE )", "price": 35.000 },
+                  { "name": "Total Features 600 + Auto React Sw + Auto Show JKT48 ( FREE 2x UPDATE )", "price": 45.000 },
                 ]
               },
               {
