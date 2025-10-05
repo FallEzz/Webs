@@ -92,7 +92,7 @@ const productsData = {
                 "variants": [
                   { "name": "Domain myid 1 Tahun", "price": 8000 },
                   { "name": "Domain bizid 1 Tahun", "price": 8000 },
-                  { "name": "Domain xyz 1 Tahun", "price": 75000 }
+                  { "name": "Domain xyz 1 Tahun", "price": 75000 },
                   { "name": "Domain xyz 1 Tahun + Hosting", "price": 550000 }
                 ]
               }
