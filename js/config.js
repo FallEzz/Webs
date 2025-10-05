@@ -57,6 +57,7 @@ const productsData = {
                   { "name": "Add Fitur Security IP ", "price": 25000 },
                   { "name": "Add Fitur Security Username + Password", "price": 15000 },
                   { "name": "Add Fitur Autojoin Saluran WhatsApp", "price": 10000 }
+                  { "name": "Add Fitur Auto Show JKT48 ( Showroom + IDN ) Otomatis", "price": 55000 }
                    
                 ]
               },
