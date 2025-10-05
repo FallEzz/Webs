@@ -86,13 +86,14 @@ const productsData = {
               },
               {
                 "id": 5,
-                "name": "Web Hosting",
+                "name": "Domain & Hosting 1 Tahun",
                 "icon": "fas fa-globe",
                 "description": "Hosting website dengan panel cPanel / DirectAdmin, cocok untuk pemula.",
                 "variants": [
-                  { "name": "Starter (1GB Storage)", "price": 15000 },
-                  { "name": "Basic (5GB Storage)", "price": 30000 },
-                  { "name": "Pro (10GB Storage)", "price": 50000 }
+                  { "name": "Domain myid 1 Tahun", "price": 8000 },
+                  { "name": "Domain bizid 1 Tahun", "price": 8000 },
+                  { "name": "Domain xyz 1 Tahun", "price": 75000 }
+                  { "name": "Domain xyz 1 Tahun + Hosting", "price": 550000 }
                 ]
               }
             ],
