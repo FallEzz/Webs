@@ -80,7 +80,7 @@ const productsData = {
                 "variants": [
                   { "name": "Total Features 600 + Auto React Sw + Auto Show JKT48 ( NO UPDATE )", "price": 30.000 },
                   { "name": "Total Features 600 + Auto React Sw + Auto Show JKT48 ( FREE 1x UPDATE )", "price": 35.000 },
-                  { "name": "Total Features 600 + Auto React Sw + Auto Show JKT48 ( FREE 2x UPDATE )", "price": 45.000 },
+                  { "name": "Total Features 600 + Auto React Sw + Auto Show JKT48 ( FREE 2x UPDATE )", "price": 45.000 }
                 ]
               },
               {
