@@ -142,6 +142,7 @@ const productsData = {
                         { name: "Landing Page", price: 75000 },
                         { name: "Full Website", price: 250000 },
                         { name: "Mobile App UI", price: 300000 }
+                        { name: "Design UX By Figma Mobile App", price: 450000 }
                     ]
                 },
                 {
@@ -176,6 +177,7 @@ const productsData = {
                         { name: "Software Editing", price: 30000 },
                         { name: "Software Utility", price: 25000 },
                         { name: "Tools Random Pack", price: 20000 }
+                        { name: "Obfuscate Encript Hard JavaScript", price: 10000 }
                     ]
                 },
                 {
