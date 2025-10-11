@@ -1,5 +1,5 @@
 const CONFIG = {
-nama: "FallZx Store X Lily", // Nama Store
+nama: "FallZx Store Infinity", // Nama Store
 profil: "https://img1.pixhost.to/images/8569/638846565_lily.jpg", // Url Profil
 banner: "https://img1.pixhost.to/images/8503/638080415_lily.jpg", // Url Banner 
 tentang: "🌌 FallZx || Lily’s Store hadir sebagai solusi digital lengkap untukmu! Kami menyediakan Panel Pterodactyl premium untuk game server, bot hosting, hingga web/app hosting dengan performa cepat dan stabil, Jasa design kreatif seperti logo, banner, hingga UI/UX agar bisnismu lebih profesional, serta Script Bot WhatsApp full fitur dengan menu otomatis, AI chat, downloader, payment, dan fitur premium lainnya. Dengan Harga terjangkau, Support 24/7, dan Layanan berkualitas, FallZx || Lily’s Store adalah pilihan terbaik untuk kebutuhan digitalmu! 🚀✨",
