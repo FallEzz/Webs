@@ -213,5 +213,17 @@ const productsData = {
                         { name: "Canva Pro (1 Bulan)", price: 20000 }
                     ]
                 }
-            ]
+            ],
+            "Jasa Joki Tugas Sekolah": [
+                {
+                    id: 16,
+                    name: "Makalah",
+                    icon: "fas fa-book",
+                    description: "Kami menawarkan berbagai jenis joki berbentuk jenis Makalah/Laporan",
+                    variants: [
+                        { name: "Makalah Pendek (3–5 halaman)", price: 35000 – 60000 },
+                        { name: "E-Book Programming", price: 20000 },
+                        { name: "E-Book Random Pack", price: 10000 }
+                    ]
+                },
         };
