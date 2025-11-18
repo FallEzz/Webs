@@ -219,11 +219,24 @@ const productsData = {
                     id: 16,
                     name: "Makalah",
                     icon: "fas fa-book",
-                    description: "Kami menawarkan berbagai jenis joki berbentuk jenis Makalah/Laporan",
+                    description: `Butuh makalah cepat, rapi, dan sesuai format kampus?
+Kami menyediakan jasa pembuatan makalah profesional dengan bahasa formal, argumen terstruktur, dan referensi yang valid. Cocok untuk tugas kuliah, sekolah, hingga persentasi.`,
                     variants: [
                         { name: "Makalah Pendek (3–5 halaman)", price: 35000 },
                         { name: "Makalah Standar (6–10 halaman)", price: 60000 },
                         { name: "Makalah Lengkap (11–20 halaman + daftar pustaka)", price: 120000 }
+                    ]
+                },
+                {
+                    id: 17,
+                    name: "Pembuatan Laporan PKL",
+                    icon: "fas fa-book",
+                    description: `Laporan PKL terlalu ribet? Bab banyak? Data berantakan?
+Serahkan pada kami!\nKami menerima pembuatan laporan PKL lengkap dari Bab 1–5, termasuk cover, daftar isi otomatis, lampiran, serta penyusunan data biar terlihat profesional.`,
+                    variants: [
+                        { name: "Laporan Bab 1–3 (Dasar)", price:   120000 },
+                        { name: "Laporan Full Bab 1–5 (Lengkap)", price: 215000 },
+                        { name: "Makalah Lengkap (11–20 halaman + daftar pustaka)", price: 257000 },
                     ]
                 }
               ]
