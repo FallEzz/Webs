@@ -225,5 +225,6 @@ const productsData = {
                         { name: "E-Book Programming", price: 20000 },
                         { name: "E-Book Random Pack", price: 10000 }
                     ]
-                },
+                }
+              ]
         };
