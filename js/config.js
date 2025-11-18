@@ -221,7 +221,7 @@ const productsData = {
                     icon: "fas fa-book",
                     description: "Kami menawarkan berbagai jenis joki berbentuk jenis Makalah/Laporan",
                     variants: [
-                        { name: "Makalah Pendek (3–5 halaman)", price: 35000,60000 },
+                        { name: "Makalah Pendek (3–5 halaman)", price: 35000 },
                         { name: "E-Book Programming", price: 20000 },
                         { name: "E-Book Random Pack", price: 10000 }
                     ]
