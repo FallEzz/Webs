@@ -222,8 +222,8 @@ const productsData = {
                     description: "Kami menawarkan berbagai jenis joki berbentuk jenis Makalah/Laporan",
                     variants: [
                         { name: "Makalah Pendek (3–5 halaman)", price: 35000 },
-                        { name: "E-Book Programming", price: 20000 },
-                        { name: "E-Book Random Pack", price: 10000 }
+                        { name: "Makalah Standar (6–10 halaman)", price: 60000 },
+                        { name: "Makalah Lengkap (11–20 halaman + daftar pustaka)", price: 120000 }
                     ]
                 }
               ]
