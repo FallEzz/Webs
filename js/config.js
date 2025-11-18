@@ -230,7 +230,7 @@ Kami menyediakan jasa pembuatan makalah profesional dengan bahasa formal, argume
                 {
                     id: 17,
                     name: "Pembuatan Laporan PKL",
-                    icon: "fas fa-id-card-o",
+                    icon: "fa-address-book",
                     description: `Laporan PKL terlalu ribet? Bab banyak? Data berantakan?
 Serahkan pada kami!\nKami menerima pembuatan laporan PKL lengkap dari Bab 1–5, termasuk cover, daftar isi otomatis, lampiran, serta penyusunan data biar terlihat profesional.`,
                     variants: [
