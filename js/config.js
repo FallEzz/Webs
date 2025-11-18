@@ -218,7 +218,7 @@ const productsData = {
                 {
                     id: 16,
                     name: "Makalah",
-                    icon: "fas fa-book",
+                    icon: "fas fa-id-card",
                     description: `Butuh makalah cepat, rapi, dan sesuai format kampus?
 Kami menyediakan jasa pembuatan makalah profesional dengan bahasa formal, argumen terstruktur, dan referensi yang valid. Cocok untuk tugas kuliah, sekolah, hingga persentasi.`,
                     variants: [
@@ -230,7 +230,7 @@ Kami menyediakan jasa pembuatan makalah profesional dengan bahasa formal, argume
                 {
                     id: 17,
                     name: "Pembuatan Laporan PKL",
-                    icon: "fas fa-book",
+                    icon: "fas fa-id-card-o",
                     description: `Laporan PKL terlalu ribet? Bab banyak? Data berantakan?
 Serahkan pada kami!\nKami menerima pembuatan laporan PKL lengkap dari Bab 1–5, termasuk cover, daftar isi otomatis, lampiran, serta penyusunan data biar terlihat profesional.`,
                     variants: [
