@@ -44,6 +44,7 @@ const productsData = {
                   { "name": "11GB RAM", "price": 11000 },
                   { "name": "Unlimited RAM", "price": 13000 },
                   { "name": "Admin Panel", "price": 18000 }
+                ]
               },
               {
                 "id": 2,
