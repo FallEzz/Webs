@@ -32,19 +32,19 @@ const productsData = {
                 "icon": "fas fa-server",
                 "description": "Panel Pterodactyl hosting bot/game dengan performa stabil dan harga terjangkau.",
                 "variants": [
-                  { "name": "1GB RAM", "price": 1000 },
-                  { "name": "2GB RAM", "price": 2000 },
-                  { "name": "3GB RAM", "price": 3000 },
-                  { "name": "4GB RAM", "price": 4000 },
-                  { "name": "5GB RAM", "price": 5000 },
-                  { "name": "6GB RAM", "price": 6000 },
-                  { "name": "7GB RAM", "price": 7000 },
-                  { "name": "8GB RAM", "price": 8000 },
-                  { "name": "9GB RAM", "price": 9000 },
-                  { "name": "10GB RAM", "price": 10000 },
-                  { "name": "Unlimited RAM", "price": 12000 },
-                  { "name": "Admin Panel", "price": 17000 }
-                ]
+                  { "name": "1GB RAM", "price": 2000 },
+                  { "name": "2GB RAM", "price": 2500 },
+                  { "name": "3GB RAM", "price": 3500 },
+                  { "name": "4GB RAM", "price": 4500 },
+                  { "name": "5GB RAM", "price": 5500 },
+                  { "name": "6GB RAM", "price": 6500 },
+                  { "name": "7GB RAM", "price": 7500 },
+                  { "name": "8GB RAM", "price": 8500 },
+                  { "name": "9GB RAM", "price": 9500 },
+                  { "name": "10GB RAM", "price": 10500 },
+                  { "name": "Unlimited RAM", "price": 13000 },
+                  { "name": "Admin Panel", "price": 18000 },
+                  { "name": "Resseller Panel", "price": 15000 }
               },
               {
                 "id": 2,
