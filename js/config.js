@@ -15,7 +15,8 @@ payment: {
   dana: "085813708397", // Payment Dana
   gopay: "085813708397", // Payment Gopay 
   ovo: "085813708397", // Payment Ovo 
-  qris: "https://img1.pixhost.to/images/8502/638078243_lily.jpg" // Url Qris
+  qris: "https://img1.pixhost.to/images/8502/638078243_lily.jpg", // Url Qris
+  seabank: "901579014313"
 },
 telegram_api: {
   bot: "7922145490:AAGoL-B9sGf3VfmK_yVsXf8AbJYALF0pltk", // Token bot father
