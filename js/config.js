@@ -89,11 +89,11 @@ const productsData = {
                 "id": 5,
                 "name": "JASA RENAME SCRIPT BOT WHATSAPP",
                 "icon": "fas fa-database",
-                "description": "Kami juga menjual Script Lily Generation 2, versi terbaru dari bot WhatsApp yang sudah dilengkapi fitur modern, performa cepat, dan sistem auto-update. Script ini cocok untuk developer maupun pengguna yang ingin memiliki bot profesional dan mudah dikembangkan.",
+                "description": "Jasa rename script bot WhatsApp untuk kamu yang ingin script terlihat original dan memiliki brand sendiri, tersedia pilihan rename mulai dari 30% hingga full rename 100% total sehingga nama bot, owner, command, menu, variabel, watermark, dan identitas internal script dapat diubah sesuai keinginan tanpa merusak fungsi bot, cocok untuk rebranding ringan sampai menjadikan script sepenuhnya milik kamu sendiri, aman, rapi, dan siap langsung dipakai atau dijual ulang dengan harga terjangkau mulai dari Rp5.000 sampai Rp20.000 sesuai paket yang dipilih.",
                 "variants": [
                   { "name": "Rename 30% + Ganti Namabot + Ganti Footer/Watermark + Beberapa Foto Menu Utama", "price": 7000 },
-                  { "name": "Rename 60% + Ganti NamaBot + NamaOwner + InfoBot + Watermark + Foto Menu + Beberapa Command & Varibel & String"price": 35000 },
-                  { "name": "Total Features 600 + Auto React Sw + Auto Show JKT48 ( FREE 2x UPDATE )", "price": 45000 }
+                  { "name": "Rename 60% + Ganti NamaBot + NamaOwner + InfoBot + Watermark + Foto Menu + Beberapa Command & Varibel & String"price": 12000 },
+                  { "name": "Rename 80% + ", "price": 15000 }
                 ]
               },
               {
