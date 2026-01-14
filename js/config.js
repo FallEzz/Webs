@@ -87,13 +87,15 @@ const productsData = {
               },
               {
                 "id": 5,
-                "name": "JASA RENAME SCRIPT BOT WHATSAPP",
+                "name": "Jasa Rename Script Bot Whatsapp",
                 "icon": "fas fa-database",
                 "description": "Jasa rename script bot WhatsApp untuk kamu yang ingin script terlihat original dan memiliki brand sendiri, tersedia pilihan rename mulai dari 30% hingga full rename 100% total sehingga nama bot, owner, command, menu, variabel, watermark, dan identitas internal script dapat diubah sesuai keinginan tanpa merusak fungsi bot, cocok untuk rebranding ringan sampai menjadikan script sepenuhnya milik kamu sendiri, aman, rapi, dan siap langsung dipakai atau dijual ulang dengan harga terjangkau mulai dari Rp5.000 sampai Rp20.000 sesuai paket yang dipilih.",
                 "variants": [
-                  { "name": "Rename 30% + Ganti Namabot + Ganti Footer/Watermark + Beberapa Foto Menu Utama", "price": 7000 },
-                  { "name": "Rename 60% + Ganti NamaBot + NamaOwner + InfoBot + Watermark + Foto Menu + Beberapa Command & Varibel & String"price": 12000 },
-                  { "name": "Rename 80% + ", "price": 15000 }
+                  { "name": "Rename 30% + Ganti Namabot + Ganti Footer/Watermark + Beberapa Foto Menu Utama ( Dapat Custom Semua Script )", "price": 7000 },
+                  { "name": "Rename 60% + Ganti NamaBot + NamaOwner + InfoBot + Watermark + Foto Menu + Beberapa Command & Varibel & String ( Dapat Custom Semua Script )", "price": 12000 },
+                  { "name": "Rename 80% + Ganti NamaBot + NamaOwner + InfoBot + Watermark + Foto Menu + Beberapa Command & Varibel & String + Struktur Menu + Command utama & alias ( Dapat Custom Script )", "price": 15000 },
+                  { "name": "Rename 100% Full + Ganti NamaBot + NamaOwner + InfoBot + Watermark + Foto Menu + Beberapa Command & Varibel & String + Struktur Menu + Command utama & alias + Response + Rombak Total + Semua Jadi Milik Kamu + Dapat Licensi Full Hak Milik ( Dapat Custom Script )", "price": 20000 }
+                ]
                 ]
               },
               {
