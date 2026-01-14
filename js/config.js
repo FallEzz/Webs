@@ -18,7 +18,7 @@ payment: {
   qris: "https://img1.pixhost.to/images/8502/638078243_lily.jpg" // Url Qris
 },
 telegram_api: {
-  bot: "62828278:7678blablabla", // Token bot father
+  bot: "7922145490:AAGoL-B9sGf3VfmK_yVsXf8AbJYALF0pltk", // Token bot father
   chatid: "6118311111" // ID telegram
 },
 }
