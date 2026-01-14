@@ -96,7 +96,6 @@ const productsData = {
                   { "name": "Rename 80% + Ganti NamaBot + NamaOwner + InfoBot + Watermark + Foto Menu + Beberapa Command & Varibel & String + Struktur Menu + Command utama & alias ( Dapat Custom Script )", "price": 15000 },
                   { "name": "Rename 100% Full + Ganti NamaBot + NamaOwner + InfoBot + Watermark + Foto Menu + Beberapa Command & Varibel & String + Struktur Menu + Command utama & alias + Response + Rombak Total + Semua Jadi Milik Kamu + Dapat Licensi Full Hak Milik ( Dapat Custom Script )", "price": 20000 }
                 ]
-                ]
               },
               {
                 "id": 6,
