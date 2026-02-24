@@ -26,7 +26,7 @@ telegram_api: {
 
 // Produk
 const productsData = {
-            "Hosting": [
+            "Hosting Dan Kebutuhan Bot WhatsApp": [
               {
                 "id": 1,
                 "name": "Panel Pterodactyl",
