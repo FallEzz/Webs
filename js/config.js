@@ -124,6 +124,7 @@ const productsData = {
                     { name: "Logo Perusahaan Premium", price: 120000 },
                     { name: "Custom Request", price: "Harga sesuai request" }             
                     ]
+                },
                 {
                     id: 8,
                     name: "Desain Banner",
