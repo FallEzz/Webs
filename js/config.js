@@ -69,7 +69,6 @@ const productsData = {
                 "icon": "fas fa-hdd",
                 "description": "Layanan Sewabot atau Jadibot WhatsApp memungkinkan Anda memiliki bot siap pakai tanpa perlu repot menjalankan server sendiri. Anda cukup menyambungkan akun WhatsApp Anda, dan bot akan aktif 24 jam penuh dengan berbagai fitur menarik yang bisa digunakan langsung.",
                 "variants": [
-                  { "name": "1 Minggu / 7 Day", "price": 5000 },
                   { "name": "2 Minggu / 14 Day", "price": 10000 },
                   { "name": "1 Bulan / 30 Day", "price": 20000 },
                   { "name": "Permanen / LifeTime", "price": 30000 }
