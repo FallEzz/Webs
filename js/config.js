@@ -115,16 +115,15 @@ const productsData = {
                     id: 7,
                     name: "Desain Logo",
                     icon: "fas fa-pen-nib",
-                    description: "Jasa pembuatan logo dengan berbagai gaya desain. Cocok untuk brand, usaha, atau komunitas.",
+                    description: "Jasa pembuatan logo profesional untuk brand, usaha, komunitas, dan kebutuhan personal.",
                     variants: [
-                        { name: "Logo Minimalis", price: 2000 },
-                        { name: "Logo Typography", price: 2500 },
-                        { name: "Logo Mascot", price: 3000 },
-                        { name: "Logo Vintage", price: 4000 },
-                        { name: "Logo Modern", price: 5000 },
-                        { name: "Request Custom", price: "Harga sesuai request" }
+                    { name: "Logo UMKM Simple", price: 25000 },
+                    { name: "Logo Brand Profesional", price: 45000 },
+                    { name: "Logo Modern Kreatif", price: 60000 },
+                    { name: "Logo Luxury Elegan", price: 85000 },
+                    { name: "Logo Perusahaan Premium", price: 120000 },
+                    { name: "Custom Request", price: "Harga sesuai request" }             
                     ]
-                },
                 {
                     id: 8,
                     name: "Desain Banner",
