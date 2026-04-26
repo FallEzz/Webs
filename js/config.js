@@ -113,7 +113,7 @@ const productsData = {
             "Desain": [
                 {
                     id: 7,
-                    name: "Desain Logo",
+                    name: "Desain Logo Personal Brand",
                     icon: "fas fa-pen-nib",
                     description: "Jasa pembuatan logo profesional untuk brand, usaha, komunitas, dan kebutuhan personal.",
                     variants: [
