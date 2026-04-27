@@ -297,7 +297,7 @@ const productsData = {
             ],
             "Dokumen Karier": [
               {
-                id: 4,
+                id: 23,
                 name: "Pembuatan CV",
                 icon: "fas fa-file-alt",
                 description: "Jasa pembuatan CV profesional, rapi, dan menarik untuk kebutuhan kerja, magang, dan karier.",
@@ -311,7 +311,7 @@ const productsData = {
                   ]
     },
     {
-        id: 5,
+        id: 24,
         name: "Pembuatan Portfolio",
         icon: "fas fa-briefcase",
         description: "Jasa pembuatan portfolio profesional untuk personal branding, freelance, dan melamar kerja.",
@@ -325,7 +325,7 @@ const productsData = {
         ]
     },
     {
-        id: 6,
+        id: 25,
         name: "Pembuatan Resume",
         icon: "fas fa-file-lines",
         description: "Jasa pembuatan resume profesional, singkat, padat, dan ATS friendly.",
@@ -338,10 +338,10 @@ const productsData = {
             { name: "Custom Request", price: "Harga sesuai request" }
         ]
     }
-]
+],
             "Jasa Joki Tugas Sekolah": [
                 {
-                    id: 23,
+                    id: 26,
                     name: "Makalah",
                     icon: "fas fa-id-card",
                     description: `Butuh makalah cepat, rapi, dan sesuai format kampus?
@@ -353,7 +353,7 @@ Kami menyediakan jasa pembuatan makalah profesional dengan bahasa formal, argume
                     ]
                 },
                 {
-                    id: 24,
+                    id: 27,
                     name: "Pembuatan Laporan PKL",
                     icon: "fas fa-address-book",
                     description: `Laporan PKL terlalu ribet? Bab banyak? Data berantakan?
