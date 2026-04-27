@@ -110,9 +110,77 @@ const productsData = {
                 ]
               }
             ],
-            "Desain": [
+             "Jasa Script Bot WhatsApp": [
+            {
+              "id": 7,
+              "name": "Bot Multi Device",
+              "icon": "fab fa-whatsapp",
+              "description": "Script bot WhatsApp Multi Device dengan fitur modern, stabil, dan cocok untuk kebutuhan personal maupun bisnis.",
+              "variants": [
+              { "name": "Bot MD Basic", "price": 35000 },
+              { "name": "Bot MD Premium", "price": 75000 },
+              { "name": "Custom Request", "price": "Harga sesuai request" }
+                ]
+            },
+            {
+              "id": 8,
+              "name": "Bot RPG",
+              "icon": "fas fa-gamepad",
+              "description": "Script bot WhatsApp RPG dengan sistem game, inventory, leveling, dan fitur seru lainnya.",
+              "variants": [
+              { "name": "Bot RPG Basic", "price": 45000 },
+              { "name": "Bot RPG Full Fitur", "price": 85000 },
+              { "name": "Custom Request", "price": "Harga sesuai request" }
+                ]
+            },
+            {
+              "id": 9,
+              "name": "Bot Jaga Group & Pushkontak",
+              "icon": "fas fa-users-cog",
+              "description": "Script bot untuk keamanan grup, welcome, anti-link, auto respon, dan push kontak.",
+              "variants": [
+              { "name": "Jaga Group Basic", "price": 30000 },
+              { "name": "Jaga Group + Pushkontak", "price": 70000 },
+              { "name": "Custom Request", "price": "Harga sesuai request" }
+                ]
+            },
+            {
+              "id": 10,
+              "name": "Bot Convert Downloader Sticker",
+              "icon": "fas fa-download",
+              "description": "Bot dengan fitur convert media, downloader sosial media, dan pembuat sticker otomatis.",
+              "variants": [
+              { "name": "Downloader Basic", "price": 40000 },
+              { "name": "Convert + Sticker Full", "price": 80000 },
+              { "name": "Custom Request", "price": "Harga sesuai request" }
+                ]
+            },
+            {
+              "id": 11,
+              "name": "Bot Auto AI",
+              "icon": "fas fa-robot",
+              "description": "Bot WhatsApp AI otomatis untuk chat pintar, tanya jawab, dan asisten virtual.",
+              "variants": [
+              { "name": "AI Basic", "price": 50000 },
+              { "name": "AI Premium Full", "price": 95000 },
+              { "name": "Custom Request", "price": "Harga sesuai request" }
+                ]
+            },
+            {
+              "id": 12,
+              "name": "Bot Auto Order Payment Gateway",
+              "icon": "fas fa-credit-card",
+              "description": "Bot WhatsApp auto order dengan sistem pembayaran otomatis menggunakan payment gateway.",
+              "variants": [
+              { "name": "Auto Order Basic", "price": 55000 },
+              { "name": "Auto Order Premium", "price": 99000 },
+              { "name": "Custom Request", "price": "Harga sesuai request" }
+                ]
+            }
+          ],
+            "Creative Design": [
                 {
-                    id: 7,
+                    id: 13,
                     name: "Desain Logo Personal Brand",
                     icon: "fas fa-pen-nib",
                     description: "Jasa pembuatan logo profesional untuk brand, usaha, komunitas, dan kebutuhan personal.",
@@ -126,7 +194,7 @@ const productsData = {
                     ]
                 },
                 {
-                    id: 8,
+                    id: 14,
                     name: "Desain Banner",
                     icon: "fas fa-image",
                     description: "Jasa pembuatan banner untuk promosi usaha, media sosial, atau event.",
@@ -137,7 +205,7 @@ const productsData = {
                     ]
                 },
                 {
-                    id: 9,
+                    id: 15,
                     name: "Desain Poster",
                     icon: "fas fa-scroll",
                     description: "Jasa desain poster kreatif untuk kebutuhan bisnis, acara, atau publikasi.",
@@ -147,7 +215,7 @@ const productsData = {
                     ]
                 },
                 {
-                    id: 10,
+                    id: 16,
                     name: "UI/UX Design",
                     icon: "fas fa-laptop-code",
                     description: "Jasa desain UI/UX untuk website atau aplikasi dengan tampilan modern dan user-friendly.",
@@ -159,7 +227,7 @@ const productsData = {
                     ]
                 },
                 {
-                    id: 11,
+                    id: 17,
                     name: "Desain Kartu Nama",
                     icon: "fas fa-id-card",
                     description: "Jasa desain kartu nama profesional untuk bisnis atau personal branding.",
@@ -171,7 +239,7 @@ const productsData = {
             ],
             "Produk Digital": [
                 {
-                    id: 12,
+                    id: 18,
                     name: "E-Book",
                     icon: "fas fa-book",
                     description: "Koleksi e-book digital dengan berbagai topik menarik, mulai dari bisnis, programming, hingga hobi.",
@@ -182,7 +250,7 @@ const productsData = {
                     ]
                 },
                 {
-                    id: 13,
+                    id: 19,
                     name: "Software & Tools",
                     icon: "fas fa-cogs",
                     description: "Software dan tools digital untuk menunjang pekerjaan maupun kebutuhan kreatif.",
@@ -194,7 +262,7 @@ const productsData = {
                     ]
                 },
                 {
-                    id: 14,
+                    id: 20,
                     name: "Lisensi & Key",
                     icon: "fas fa-key",
                     description: "Produk lisensi resmi dan serial key untuk software pilihan.",
@@ -205,7 +273,7 @@ const productsData = {
                     ]
                 },
                 {
-                    id: 15,
+                    id: 21,
                     name: "Template Digital",
                     icon: "fas fa-file-alt",
                     description: "Template digital untuk desain, presentasi, website, dan media sosial.",
@@ -216,7 +284,7 @@ const productsData = {
                     ]
                 },
                 {
-                    id: 16,
+                    id: 22,
                     name: "Akun Premium",
                     icon: "fas fa-user-circle",
                     description: "Berbagai akun premium dengan harga terjangkau, cocok untuk hiburan dan produktivitas.",
@@ -229,7 +297,7 @@ const productsData = {
             ],
             "Jasa Joki Tugas Sekolah": [
                 {
-                    id: 17,
+                    id: 23,
                     name: "Makalah",
                     icon: "fas fa-id-card",
                     description: `Butuh makalah cepat, rapi, dan sesuai format kampus?
@@ -241,7 +309,7 @@ Kami menyediakan jasa pembuatan makalah profesional dengan bahasa formal, argume
                     ]
                 },
                 {
-                    id: 18,
+                    id: 24,
                     name: "Pembuatan Laporan PKL",
                     icon: "fas fa-address-book",
                     description: `Laporan PKL terlalu ribet? Bab banyak? Data berantakan?
