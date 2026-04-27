@@ -295,6 +295,50 @@ const productsData = {
                     ]
                 }
             ],
+            "Dokumen Karier": [
+              {
+                id: 4,
+                name: "Pembuatan CV",
+                icon: "fas fa-file-alt",
+                description: "Jasa pembuatan CV profesional, rapi, dan menarik untuk kebutuhan kerja, magang, dan karier.",
+                variants: [
+                { name: "CV Simple ATS Friendly", price: 25000 },
+                { name: "CV Profesional Modern", price: 45000 },
+                { name: "CV Kreatif Premium", price: 60000 },
+                { name: "CV Fresh Graduate", price: 85000 },
+                { name: "CV Executive Exclusive", price: 120000 },
+                { name: "Custom Request", price: "Harga sesuai request" }
+                  ]
+    },
+    {
+        id: 5,
+        name: "Pembuatan Portfolio",
+        icon: "fas fa-briefcase",
+        description: "Jasa pembuatan portfolio profesional untuk personal branding, freelance, dan melamar kerja.",
+        variants: [
+            { name: "Portfolio Simple Clean", price: 30000 },
+            { name: "Portfolio Profesional Modern", price: 50000 },
+            { name: "Portfolio Kreatif Premium", price: 70000 },
+            { name: "Portfolio Visual Eksklusif", price: 90000 },
+            { name: "Portfolio Executive Luxury", price: 125000 },
+            { name: "Custom Request", price: "Harga sesuai request" }
+        ]
+    },
+    {
+        id: 6,
+        name: "Pembuatan Resume",
+        icon: "fas fa-file-lines",
+        description: "Jasa pembuatan resume profesional, singkat, padat, dan ATS friendly.",
+        variants: [
+            { name: "Resume Simple ATS Friendly", price: 25000 },
+            { name: "Resume Profesional Modern", price: 45000 },
+            { name: "Resume Premium Clean", price: 60000 },
+            { name: "Resume International Style", price: 85000 },
+            { name: "Resume Executive Exclusive", price: 120000 },
+            { name: "Custom Request", price: "Harga sesuai request" }
+        ]
+    }
+]
             "Jasa Joki Tugas Sekolah": [
                 {
                     id: 23,
